@@ -1,6 +1,6 @@
 # test-svg
 
-test for commit
+test for commit linking
 
 ## Project setup
 
